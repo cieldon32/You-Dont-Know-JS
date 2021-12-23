@@ -1,5 +1,5 @@
-# You Don't Know JS Yet: Get Started - 2nd Edition
-# Appendix A: Exploring Further
+# 你还不懂JS: 入门 - 第二版本
+# 第一章: 进一步探索
 
 In this appendix, we're going to explore some topics from the main chapter text in a bit more detail. Think of this content as an optional preview of some of the more nuanced details covered throughout the rest of the book series.
 
